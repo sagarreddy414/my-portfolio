@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Footer from './components/Footer';
@@ -6,7 +6,7 @@ import Experience from './components/Experience';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
@@ -14,7 +14,7 @@ const App = () => {
         <Route path='*' element={<Navigate to="/" replace />} />
       </Routes>
       <Footer/>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
