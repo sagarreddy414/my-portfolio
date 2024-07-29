@@ -14,9 +14,9 @@ import Projects from './components/Projects';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
-      <Home/>
+      <Navbar/>
       <Routes>
-        <Route path='/' element={<Navbar/>}/>
+        <Route path='/' element={<Home/>}/>
         <Route path='/experience' element={<Experience/>}/>
         <Route path='/projects' element={<Projects/>}/>
         <Route path='/about' element={<About/>}/>
