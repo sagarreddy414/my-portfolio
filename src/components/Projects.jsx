@@ -1,4 +1,3 @@
-
 import React from "react";
 import affordmedico from '../assets/affordmedico.png'
 import p1 from '../assets/p1.png'
@@ -54,7 +53,7 @@ const Projects = () => {
                     />
                 ))}
             </div>
-            <Footer/>
+            
         </div>
     );
 }

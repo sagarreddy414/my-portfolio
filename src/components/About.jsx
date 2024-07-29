@@ -49,7 +49,7 @@ I thrive in collaborative environments, working with cross-functional teams and 
           </div>
         </div>
       </div>
-      <Footer />
+      
     </div>
   )
 }

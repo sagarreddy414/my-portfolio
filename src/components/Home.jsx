@@ -40,7 +40,7 @@ const Home = () => {
 					<p className='mt-3 text-xl'>I love to learn and build scalable and optimized backend systems.</p>
 				</div>      
 			</div>
-			<Footer/>
+			
 		</div>	
 	);
 }
