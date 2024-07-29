@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31a9a328.css",
+    "main.js": "/static/js/main.d51e6dca.js",
+    "static/js/592.44aeb7f6.chunk.js": "/static/js/592.44aeb7f6.chunk.js",
+    "static/media/affordmedico.png": "/static/media/affordmedico.303e65d31343889ba716.png",
+    "static/media/p1.png": "/static/media/p1.bf3991de00e46d7923d8.png",
+    "index.html": "/index.html",
+    "main.31a9a328.css.map": "/static/css/main.31a9a328.css.map",
+    "main.d51e6dca.js.map": "/static/js/main.d51e6dca.js.map",
+    "592.44aeb7f6.chunk.js.map": "/static/js/592.44aeb7f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a9a328.css",
+    "static/js/main.d51e6dca.js"
+  ]
+}
